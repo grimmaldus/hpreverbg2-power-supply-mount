@@ -1,2 +1,2 @@
-# hp_reverb_g2_power_supply_mount_V2
+# HP Reverb G2 Power Supply V2 Wall Mount 
 Case for HP Reverb G2 Power Supply V2
